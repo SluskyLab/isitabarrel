@@ -4,6 +4,9 @@ This project contains the code and IsItABarrel algorithm used to create the IsIt
 ## Web Application
 The IsItABarrelDB has an associated web application, where you can download the entire database or a filtered set of results.  It can be found at [https://isitabarrel.ku.edu](https://isitabarrel.ku.edu).
 
+## Input Files
+The input files used for generating the IsItABarrelDB can be found at [https://github.com/SluskyLab/isitabarrel-data](https://github.com/SluskyLab/isitabarrel-data).
+
 ## Copyright And License
 
 This software is Copyright (c) 2022 by The University of Kansas.
